@@ -1,0 +1,37 @@
+{
+  "title": "Yoruba Speech Resource Registry",
+  "upload_type": "dataset",
+  "description": "Registry CSV and data note documenting Yoruba speech resources from Mozilla Common Voice, OpenSLR, and Coqui indexes.",
+  "creators": [
+    {
+      "name": "Common Voice OpenSLR Taskforce",
+      "affiliation": "Open Source Research"
+    }
+  ],
+  "keywords": [
+    "Yoruba",
+    "speech",
+    "dataset registry",
+    "Common Voice",
+    "OpenSLR"
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://raw.githubusercontent.com/common-voice/cv-dataset/main/datasets/cv-corpus-23.0-2025-09-05.json",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.openslr.org/86/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/coqui-ai/STT-data/blob/main/dataset_links.md",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+dataset,source,release_or_listing,release_date,hours_total,hours_valid,clip_count,license,speaker_mix,notes,source_link
+Common Voice Yoruba,Mozilla Common Voice,cv-corpus-23.0-2025-09-05,17 September 2025,8.14,5.76,4852,Not listed in JSON (historically CC0 1.0),"Female 37%, Male 30%, Unspecified 33%",Age data skewed toward twenties; sentence_domain metadata unused.,https://raw.githubusercontent.com/common-voice/cv-dataset/main/datasets/cv-corpus-23.0-2025-09-05.json
+Google Yoruba Speech (SLR86),OpenSLR,SLR86,2020,,,3583,Creative Commons Attribution-ShareAlike 4.0 International,"Female clips: 1892, Male clips: 1691",High-quality studio recordings; annotation_info.txt documents noise/disfluency tags.,https://www.openslr.org/86/
+Coqui STT dataset index,Coqui,dataset_links.md,,,,,,,No Yoruba resources listed in the current index.,https://github.com/coqui-ai/STT-data/blob/main/dataset_links.md
